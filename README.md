@@ -1,5 +1,5 @@
 # software login-system
-coded in vb<br/>
+Developed in Visual Basic<br/>
 Detects and terminates debugging / RE tools <br/>
 Uses hardware generated HWID lock <br/>
 Login requests are handled by php backend<br/>
